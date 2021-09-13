@@ -10,7 +10,7 @@ Target a specific version and platform for the binary. For version `v0.1.0` and 
 
 ```cli
   curl -L https://github.com/felipecruz91/yctl/releases/download/v0.1.0/yctl -o yctl
-  sudo mv converter /usr/local/bin
+  sudo mv yctl /usr/local/bin
 ```
 
 For other platforms like Windows or MacOS choose the binary from the links [here](https://github.com/felipecruz91/yctl/releases).
