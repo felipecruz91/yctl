@@ -1,5 +1,7 @@
 # yctl
 
+[![build](https://github.com/felipecruz91/yctl/actions/workflows/build.yml/badge.svg)](https://github.com/felipecruz91/yctl/actions/workflows/build.yml)
+
 Control your Yeelight devices from your terminal.
 
 ## Download
